@@ -1,6 +1,3 @@
-eggs
-ketchup
-bread
-pizza
 coffee
 sauce
+pizza rolls
