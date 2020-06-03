@@ -1,2 +1,5 @@
 eggs
 ketchup
+bread
+pizza
+coffee
