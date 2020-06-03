@@ -1,6 +1,2 @@
-eggs
-ketchup
-bread
-pizza
 coffee
 sauce
